@@ -1,4 +1,4 @@
 # Gym-Management
 This is my first repository
 <br>
-Author : Vivek Aute
+Author : Vivek Aute (MGM)
